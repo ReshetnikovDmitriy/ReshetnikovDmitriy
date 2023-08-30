@@ -12,4 +12,4 @@
 
 - :zap: В ближайшей перспективе изучение JS и React!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-reshetnikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Reshetnikov_Dmitriy) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mmail&logoColor=white)](mailto:reshetnikov.111@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-reshetnikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Reshetnikov_Dmitriy) [![Mail Badge](https://img.shields.io/badge/-https://e.mail.ru/inbox/)](mailto:reshetnikov.111@mail.ru)
