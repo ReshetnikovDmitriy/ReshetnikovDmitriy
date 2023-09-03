@@ -1,6 +1,6 @@
 <h1 align="left">Привет 👋, меня зовут Дмитрий!</h1>
 
-### :man_technologist: Обо мне:
+## :man_technologist: Обо мне:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со школы Frontendblok, где я прошел курсы по HTML | CSS базовый и продвинутый. После, в этой же школе решил продолжить обучение по JS! В настоящий момент мое обучение продолжается. 
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+## 🤝 Социальные сети:
 
 <div id="badges">
     <a href="https://t.me/Reshetnikov_Dmitriy" target="_blank">
@@ -27,7 +27,7 @@
 
   ---
 
-  ### 💻 Технологии:
+  ## 💻 Технологии:
 
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -45,7 +45,7 @@
 
 ---
 
-### 🛠 Инструменты:
+## 🛠 Инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+## ⚙️ GitHub статистика:
 
 <table>
   <tr>
