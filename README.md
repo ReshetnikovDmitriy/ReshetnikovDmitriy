@@ -1,6 +1,6 @@
 ## Привет 👋, меня зовут Дмитрий!
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjust%2520the%2520message-8A2BE2)
+![Static Badge](https://e.mail.ru/inbox/)
 
 ### :man_technologist: Обо мне:
 
